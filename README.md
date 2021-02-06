@@ -1,2 +1,2 @@
 # strapi-provider-upload-firestorage
-strapi provider for firebase storage
+provider for strapi  upload using firestorage

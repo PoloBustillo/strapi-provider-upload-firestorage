@@ -1,0 +1,25 @@
+{
+  "name": "strapi-provider-upload-firestorage",
+  "version": "1.0.0",
+  "description": "firebase storage provider for strapi upload",
+  "main": "/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "strapi",
+    "firestorage",
+    "firebase",
+    "upload"
+  ],
+  "author": {
+    "email": "leopoldobeguiluz1@hotmail.com",
+    "name": "Mario Bustillo",
+    "url": "https://strapi.io"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^9.4.2",
+    "uuid-v4": "^0.1.0"
+  }
+}
